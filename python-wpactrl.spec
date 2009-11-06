@@ -13,8 +13,7 @@ URL:		http://projects.otaku42.de/wiki/PythonWpaCtrl
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.219
-Requires:	python
-Requires:	python-modules
+Requires:	python-libs
 Suggests:	hostapd
 Suggests:	wpa_supplicant
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
