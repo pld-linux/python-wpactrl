@@ -1,6 +1,6 @@
 %define 	module	wpactrl
 %define		snap	20090609
-%define		rel		2
+%define		rel		3
 Summary:	A Python extension for wpa_supplicant/hostapd control interface access
 Name:		python-%{module}
 Version:	1.0.7
