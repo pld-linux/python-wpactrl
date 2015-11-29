@@ -12,7 +12,7 @@ Source0:	http://mirror.leaseweb.com/archlinux/other/python-wpactrl/python-wpactr
 URL:		http://projects.otaku42.de/wiki/PythonWpaCtrl
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-libs
 Suggests:	hostapd
 Suggests:	wpa_supplicant
